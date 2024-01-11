@@ -1,0 +1,6 @@
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project1\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.dll
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project1\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project1\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.AssemblyReference.cache
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project1\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project1\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.dll
+E:\mphasis\problem statement\PHASE3\Simply Learn Projects\project1\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.pdb
